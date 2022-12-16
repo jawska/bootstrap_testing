@@ -1,0 +1,19 @@
+body {
+    background-color: #8c9283;
+    background: linear-gradient(90deg,);
+    background-image: url('img/guitar_studio.jpg');
+    background-size: cover;
+    padding: 20px;
+    color: #9b3333;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
+}
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+
+  }
+
+
